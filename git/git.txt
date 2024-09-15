@@ -1,10 +1,13 @@
- https://about.gitlab.com/images/press/git-cheat-sheet.pdf
+1)           https://about.gitlab.com/images/press/git-cheat-sheet.pdf
 
 
 
 
 
-https://education.github.com/git-cheat-sheet-education.pdf
+2)            https://education.github.com/git-cheat-sheet-education.pdf
+
+
+3)            https://docs.chaicode.com/home-for-programmers/
 
 
 
